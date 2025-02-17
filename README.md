@@ -1,4 +1,10 @@
-## Test Plan: Paylocity Benefits Dashboard
+## STE Assessment- Bug Challenge
+### Bug-Finding Challenge
+At Paylocity, the highest priority of the software tester is to find bugs before the end
+user does. This challenge is designed to have you demonstrate your bug-finding
+ability in both the API the UI of an application.
+
+### Test Plan: Paylocity Benefits Dashboard
 
 **1. Introduction**
 
